@@ -1,0 +1,8 @@
+title: Castle-Key — Privacy Policy
+description: Privacy Policy for the Castle-Key iOS game.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
