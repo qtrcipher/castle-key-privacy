@@ -138,8 +138,6 @@ Because Castle-Key collects no personal data on our servers, most of these right
 
 For California residents (CCPA): we do not sell personal information. The ad-supported free tier involves sharing device identifiers with Google AdMob for advertising purposes, subject to your ATT consent.
 
-For Qatar / GCC residents: rights under applicable Qatari data protection laws (notably Law No. 13 of 2016 Concerning Personal Data Privacy Protection) apply. You may contact us at <dev.hamam@gmail.com> to exercise any rights granted by applicable law.
-
 ---
 
 ## 10. Changes to This Privacy Policy
